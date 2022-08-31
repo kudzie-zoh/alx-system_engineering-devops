@@ -4,10 +4,8 @@
 
 2-bring_me_home changes the working directory to the user's home directory
 
-3-listfiles displas the contents of the directory in long format
+3-listfiles displays the contents of the directory in long format
 
-3-listfiles displas the contents of the directory in long format
-
-3-listfiles displas the contents of the directory in long format
+4-listfilesdigitonly lists contents of the directory numerically
 
 
