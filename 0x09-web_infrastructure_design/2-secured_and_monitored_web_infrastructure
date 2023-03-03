@@ -1,3 +1,7 @@
+https://github.com/kudzie-zoh/alx-system_engineering-devops/blob/master/0x09-web_infrastructure_design/Secured%20and%20monitored%20web%20infrastructure.webp
+
+
+
 For every additional element, why you are adding it
 
 3 Firewalls: The first Firewall checks the rules after receiving the requests and could deny following requests. The second firewall is working in the server to prevent someone hacking depending of the requests, and the third firewall acts as a circuit-level firewalls, inspect the transaction of the information.
